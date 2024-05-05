@@ -24,7 +24,6 @@ const formattedContent = computed(() => {
   );
   return formatted;
 });
-Prism.highlightAll();
 </script>
 
 <template>
